@@ -1,2 +1,2 @@
-import _ from "lodash";
-console.log(_.last(["uno", "dos"]));
+import { miFuncion } from "./src/index.js";
+miFuncion();
